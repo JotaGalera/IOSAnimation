@@ -44,5 +44,5 @@ ___CABasicAnimation & CAShapeLayer:___ You can add a simple basic animation(CABa
 
 ### Example video:
 
-![](animation1.mov)
-![](animation2.mov)
+![Animation 1](animation1.mov)
+![Animation 2](animation2.mov)
