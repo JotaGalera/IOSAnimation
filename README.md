@@ -44,5 +44,9 @@ ___CABasicAnimation & CAShapeLayer:___ You can add a simple basic animation(CABa
 
 ### Example video:
 
-![Animation 1](animation1.mov)
-![Animation 2](animation2.mov)
+![Animation 1](/Users/javier.galera/Desktop/IOSAnimation/animation1.mov)
+![Animation 2](/Users/javier.galera/Desktop/IOSAnimation/animation2.mov)
+<video width="320" height="240" controls>
+  <source src="/Users/javier.galera/Desktop/IOSAnimation/animation1.mov" type="video/mp4">
+  <source src="/Users/javier.galera/Desktop/IOSAnimation/animation2.mov" type="video/mp4">
+</video>
