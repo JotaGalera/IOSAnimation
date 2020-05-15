@@ -42,8 +42,7 @@ ___CABasicAnimation & CAShapeLayer:___ You can add a simple basic animation(CABa
     ·.autoreverse: complete the path and reverse.
     ·.repeatCount: .infinity or a number of times you want to repeat the animation.
 
-### Example video:
+### Installation: 
 
-![Animation 1](/animation1.mov)
-![Animation 2](/animation2.mov)
-
+1. Clone the repositorie.
+2. Open the project with XCode and Run.
